@@ -12,10 +12,24 @@ Odkaz vede vždy na nejnovější verzi. · 📄 [Brožura v PDF](WorkWeather-br
 
 ## Ukázky
 
+**Rozložený Galaxy Z Fold** – vlevo verdikt, silnice a kontrola podmínek, vpravo radar a hodiny:
+
 <p>
-<img src="img/hlavni.jpg" width="31%" alt="Hlavní obrazovka">
-<img src="img/tyden.jpg" width="31%" alt="Plán na týden s grafy srážek a nárazů">
-<img src="img/detail-hodiny.jpg" width="34%" alt="Detail hodiny">
+<img src="img/7-fold-rozlozeny.jpg" width="49%" alt="Rozložený Z Fold – verdikt, silnice, radar">
+<img src="img/8-fold-kontrola.jpg" width="49%" alt="Rozložený Z Fold – kontrola podmínek a hodiny">
+</p>
+
+**Složený telefon:**
+
+<p>
+<img src="img/1-hlavni.jpg" width="32%" alt="Hlavní obrazovka – druh práce, verdikt, silnice">
+<img src="img/2-po-hodinach.jpg" width="32%" alt="Po hodinách">
+<img src="img/3-tyden.jpg" width="32%" alt="Plán na týden s grafem nárazů">
+</p>
+<p>
+<img src="img/4-tyden-grafy.jpg" width="32%" alt="Týden – srážky a nárazy větru">
+<img src="img/5-14-dni.jpg" width="32%" alt="Předpověď na 14 dní se shodou modelů">
+<img src="img/6-radar.jpg" width="32%" alt="Radar srážek">
 </p>
 
 ## Instalace
