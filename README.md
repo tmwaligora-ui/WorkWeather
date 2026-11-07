@@ -1,12 +1,22 @@
 # WorkWeather
 
+![WorkWeather na Galaxy Z Fold](img/hero.jpg)
+
 **Počasí pro práci venku** – Android aplikace, která jedním pohledem řekne, jestli se dnes dá pracovat na střeše: **OK**, **Půl dne** nebo **NE**, a přesně od kdy do kdy.
 
 ## ⬇️ Stažení
 
 **[Stáhnout WorkWeather.apk (nejnovější verze)](https://github.com/tmwaligora-ui/WorkWeather/releases/download/latest/WorkWeather.apk)**
 
-Odkaz vede vždy na nejnovější verzi.
+Odkaz vede vždy na nejnovější verzi. · 📄 [Brožura v PDF](WorkWeather-brozura.pdf)
+
+## Ukázky
+
+<p>
+<img src="img/hlavni.jpg" width="31%" alt="Hlavní obrazovka">
+<img src="img/tyden.jpg" width="31%" alt="Plán na týden s grafy srážek a nárazů">
+<img src="img/detail-hodiny.jpg" width="34%" alt="Detail hodiny">
+</p>
 
 ## Instalace
 
@@ -17,6 +27,8 @@ Odkaz vede vždy na nejnovější verzi.
 Novější verze se nainstaluje přes starou, místa a nastavení zůstanou.
 
 ## Co umí
+
+![Montáž FVE](img/fve.jpg)
 
 - Verdikt a pracovní okno na dnes, týden i 14 dní
 - Aktuální poloha telefonu a další místa (zakázky)
@@ -29,6 +41,8 @@ Novější verze se nainstaluje přes starou, místa a nastavení zůstanou.
 - Android Auto
 
 ## Android Auto
+
+![Varování na náledí v autě](img/auto.jpg)
 
 Aplikace není z Obchodu Play, proto ji Android Auto zobrazí jen se zapnutými **neznámými zdroji**:
 
