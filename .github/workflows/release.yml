@@ -1,0 +1,26 @@
+name: Zveřejnit APK
+
+on:
+  push:
+    branches: [main]
+    paths: [WorkWeather.apk, VERSION]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vydání ke stažení
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V=$(cat VERSION)
+          gh release delete latest --yes --cleanup-tag || true
+          gh release create latest WorkWeather.apk \
+            --target "${{ github.sha }}" \
+            --title "WorkWeather $V" \
+            --notes "Nejnovější verze WorkWeather ($V). Stáhni WorkWeather.apk a nainstaluj – novější verze se nainstaluje přes starou, nastavení zůstane."

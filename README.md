@@ -4,7 +4,7 @@
 
 ## ⬇️ Stažení
 
-**[Stáhnout WorkWeather.apk (nejnovější verze)](https://github.com/tmwaligora-ui/WorkWeather/releases/latest/download/WorkWeather.apk)**
+**[Stáhnout WorkWeather.apk (nejnovější verze)](https://github.com/tmwaligora-ui/WorkWeather/releases/download/latest/WorkWeather.apk)**
 
 Odkaz vede vždy na nejnovější verzi.
 
